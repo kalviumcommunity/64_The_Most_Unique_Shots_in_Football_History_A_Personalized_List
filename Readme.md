@@ -11,4 +11,4 @@ Filters: Search the shots based on selected players, teams, or based on categori
 Interactive Media: Watch videos and enjoy GIFs of the shots directly on the platform.
 Tech Stack Frontend: HTML, CSS, JavaScript (React for dynamic features). Backend: Node.js with Express.js and Mongoose for handling APIs and user data. Database: MongoDB to store user lists and shot information. APIs: YouTube API for videos and Football APIs for data. Hosting: Vercel for deployment.
 
-Why This Project I love football. Fans can never get tired talking about it, and discussing memorable moments in it. It's great that working on this will make me learn some web development basics, and make a fun interactive platform with more insights into making apps appealing for the user. A perfect blend of football passion and technology
+Why This Project I love football. Fans can never get tired talking about it, and discussing memorable moments in it. It's great that working on this will make me learn some web development basics, and make a fun interactive platform with more insights into making apps appealing for the user. A perfect blend of football passion and technology...
